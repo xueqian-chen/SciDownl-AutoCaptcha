@@ -16,8 +16,6 @@
 
 `pip install -r requirements.txt `
 
-![1577070964060](C:\Users\chenxq\AppData\Roaming\Typora\typora-user-images\1577070964060.png)
-
 
 
 ## 使用方法
