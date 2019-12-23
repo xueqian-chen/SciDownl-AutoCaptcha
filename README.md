@@ -1,4 +1,4 @@
-## Acknowledgements
+## Reference
 
 **[SciDownl](https://github.com/Tishacy/SciDownl)** is created by **[Tishacy](https://github.com/Tishacy)**. I modified it to make it identify the captcha automatically. Then, users can bulk download papers.
 
