@@ -16,9 +16,6 @@ Users should install some python packages through the following cmd command.
 
 `pip install -r requirements.txt `
 
-![1577070964060](C:\Users\chenxq\AppData\Roaming\Typora\typora-user-images\1577070964060.png)
-
-
 
 ## Usage
 
