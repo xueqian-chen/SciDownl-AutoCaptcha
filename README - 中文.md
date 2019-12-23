@@ -1,4 +1,4 @@
-## 致谢
+## 简介
 
 本项目是在 **[Tishacy](https://github.com/Tishacy)** 创作的 **[SciDownl](https://github.com/Tishacy/SciDownl)** 基础上做的微小修改，实现了自动识别验证码，从而批量下载文献的功能。
 
