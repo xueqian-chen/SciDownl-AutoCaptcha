@@ -202,7 +202,7 @@ class SciHub(object):
 
         # Try 10 times at most.
         for i in range(10):
-            chaojy = chaojiying.Chaojiying_Client('***YourUserName***', '***YourPassword***', '***YourAppID***')  # Please see the attached video
+            chaojy = chaojiying.Chaojiying_Client('***YourUserName***', '***YourPassword***', '')
             im = open('captcha_code.jpg', 'rb').read()
             
             # 3008 means the captcha only contains 1~8 English letters. Please see: https://www.chaojiying.com/price.html
