@@ -1,4 +1,4 @@
-**[SciDownl](https://github.com/Tishacy/SciDownl)** is created by **[Tishacy](https://github.com/Tishacy)**. I modified it to make it identify the captcha automatically. Then, users can bulk download papers.
+**[SciDownl](https://github.com/Tishacy/SciDownl)** is created by **[Tishacy](https://github.com/Tishacy)**. I modified it to make it identify the captcha automatically. Then, users can  download papers in bulk.
 
 
 
@@ -17,8 +17,6 @@ Users should install some python packages through the following cmd command.
 
 ## Usage
 
-1. See the attached video. Fill in the UserName, Password and AppID in lines ***205*** and ***209***, ***scihub.py***.
-2. Modify the DOIs in ***run.bat***. To obtain a large number of DOIs, you can use Reference Management Software, such as EndNote.
-3. Double click ***run.bat***. For each paper, the program will try 10 times at most to identify the captcha.
-4. More detailed usages please see [SciDownl](https://github.com/Tishacy/SciDownl).
+1. Please see tutorial.md.
+2. More detailed usages about Scidownl, such as update Scihub newest website, please see [SciDownl](https://github.com/Tishacy/SciDownl).
 

@@ -20,8 +20,6 @@
 
 ## 使用方法
 
-1. 首先根据附件视频，注册超级鹰帐号并充值（或者根据超级鹰的官网提示获取试用额度），修改 ***scihub.py*** 中的第 205 和 209 行。
-2. 修改 ***run.bat*** 文件中的DOI。批量获取 DOI 可以使用 Endnote 等文献管理软件。
-3. 双击 ***run.bat***，开始下载。对于一篇论文，程序最多识别 10 次，如果仍然得不到正确结果，就会将该 DOI 输出至 ***DOI-Failed.txt***。
-4. 更详细的使用方法，如更新 SciHub 的可用地址，请看 [SciDownl](https://github.com/Tishacy/SciDownl).
+1. 首先根据附件`tutorial.md`，注册超级鹰帐号并充值（或者根据超级鹰的官网提示获取试用额度），修改 **scihub.py** 中的第 205 行，输入超级鹰帐号密码。在 **scihub.py**文件末尾添加要下载文件的DOI，然后运行 **scihub.py**即可。
+2. 更详细的使用方法，如更新 SciHub 的可用地址，请看 [SciDownl](https://github.com/Tishacy/SciDownl).
 
